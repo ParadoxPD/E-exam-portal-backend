@@ -1,0 +1,19 @@
+{
+  "name": "e-exam-portal-backend",
+  "version": "1.0.0",
+  "description": "The backend of exam portal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParadoxPD/E-exam-portal-backend.git"
+  },
+  "author": "Paradox",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ParadoxPD/E-exam-portal-backend/issues"
+  },
+  "homepage": "https://github.com/ParadoxPD/E-exam-portal-backend#readme"
+}
